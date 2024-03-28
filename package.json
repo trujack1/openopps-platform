@@ -67,7 +67,7 @@
     "passport-http-bearer": "^1.0.1",
     "passport-local": "^1.0.0",
     "passport-myusa": "^1.0.0",
-    "pg-promise": "^3.7.5",
+    "pg-promise": "^11.5.5",
     "rc": "1.0.1",
     "request": "^2.69.0",
     "sails": "^0.12.3",
