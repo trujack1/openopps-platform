@@ -78,7 +78,7 @@
     "select2": "3.5.2-browserify",
     "string": "^3.3.1",
     "underscore": "^1.8.3",
-    "uswds": "^0.9.1",
+    "uswds": "^0.14.0",
     "validator": "^5.1.0",
     "watchify": "^3.7.0",
     "xmlhttprequest": "^1.8.0"
